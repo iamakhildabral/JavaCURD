@@ -53,7 +53,7 @@ To get started with this project, follow the steps below:
 
 ## Usage
 
-Once the application is running, you can use a tool like Postman or cURL to interact with the API endpoints. Here are the available endpoints:
+Once the application is running, you can use a tool like Postman to interact with the API endpoints. Here are the available endpoints:
 
 - `GET /view`: Get all users
 - `POST /add`: Create a new user
